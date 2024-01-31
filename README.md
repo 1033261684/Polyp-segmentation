@@ -1,4 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 This package contains the source code which is associated with the following paper:
 
 Li Yang, Junjie Li, Jiarui Quan, Yanyu Liu*and Dongming Zhou, "Polyp segmentation via feature-decoupling attention network", submitted to Soft Computing, 2024. (under review, first round)
