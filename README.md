@@ -28,5 +28,5 @@ Contact:
     Don't hesitate to contact me if you meet any problems when using this code.
 
     Yanyu Liu
-    Yunnan University Finance and Economics                                                             
+    Yunnan University of Finance and Economics                                                             
     Email: yanyul-ynufe@outlook.com; liuyanyu@ynufe.edu.cn    
